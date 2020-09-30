@@ -37,3 +37,4 @@ captures/
 /.project
 # Idea
 .idea/
+*.properties
