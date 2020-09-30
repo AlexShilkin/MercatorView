@@ -20,6 +20,10 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
+    <com.yandex.mapkit.mapview.MapView
+        android:id="@+id/mapview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
     <ru.ashilkin.mercatorview.MercatorView
         android:id="@+id/mercatorView"
