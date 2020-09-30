@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
     private val MAPKIT_API_KEY = ""
     private val TARGET_LOCATION: Point = Point(50.35848, 36.353309)
 
-
     var i = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
