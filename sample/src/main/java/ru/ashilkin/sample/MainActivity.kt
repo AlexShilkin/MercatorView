@@ -1,7 +1,8 @@
 package ru.ashilkin.sample
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
+import com.yandex.mapkit.geometry.Point
 import kotlinx.android.synthetic.main.activity_main.*
 
 
