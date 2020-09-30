@@ -7,7 +7,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    private val MAPKIT_API_KEY = "d282c3a3-acd5-43b9-a66e-a00a53640272"
+    private val MAPKIT_API_KEY = ""
     private val TARGET_LOCATION: Point = Point(59.945933, 30.320045)
 
 
